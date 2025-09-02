@@ -821,7 +821,6 @@ removed items
  salePriceInput.value = ''; // Clear sale price input 
 
 }); 
-
 // IniƟ al load and render when the page loads
 
 document.addEventListener('DOMContentLoaded', () => { 
