@@ -10,8 +10,8 @@ def index():
  Renders the main index.html template for the Smart Register applicaƟ on.
 
  """ 
-
-    return render_template('index.html')
+  
+      return render_template('index.html')
 
 if __name__ == '__main__': 
 
